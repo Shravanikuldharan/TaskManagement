@@ -1,0 +1,14 @@
+package com.TaskManagement.Enum;
+
+public enum Permission {
+	
+	ISSUE_CREATED, 
+	ISSUE_VIEW,
+	ISSUE_EDIT,
+	ISSUE_ASSIGN,
+	ISSUE_DELETE,
+	COMMENT_ADD,
+	COMMENT_DELETE,
+	WORKFLOW_TRANSACTION,
+	USER_MANAGE
+}	
